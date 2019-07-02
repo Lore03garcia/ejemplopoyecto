@@ -4,5 +4,5 @@ function alguna_funcion(){
 }
 
 function funcion_dos(){
-    console.log("No borrar");
+
 }
