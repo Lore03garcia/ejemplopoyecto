@@ -1,4 +1,5 @@
 
 function alguna_funcion(){
-    console.log("hola mundo");
+    console.log("Lorena commit");
 }
+
